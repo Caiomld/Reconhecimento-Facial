@@ -5,7 +5,7 @@ Este é um projeto realizado por 4 alunos da Ilum - Escola de Ciência (CNPEM) e
 # !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge Status"](https://img.shields.io/badge/Status-Em_constru%C3%A7%C3%A3o-yellow) 
 
 ## 📋 Conteúdo do Repositório
-*[Reconhecimento e Reconstrução Facial.ipynb](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/A%20Batalha%20Contra%20Dragao/introducao.ipynb)*: Um notebook interativo que demonstra o uso do SVD no reconhecimento facial, incluindo:
+*[Reconhecimento e Reconstrução Facial.ipynb](https://github.com/Caiomld/Reconhecimento-Facial/blob/6c45203a951e28a8c1c7fb51dbffec9d5b07b994/Reconhecimento%20e%20Reconstru%C3%A7%C3%A3o%20Facial.ipynb)*: Um notebook interativo que demonstra o uso do SVD no reconhecimento facial, incluindo:
 
 - Galeria de imagens do dataset utilizado
 - Aplicação do SVD para reduzir dimensionalidade em imagens faciais.
