@@ -1,9 +1,11 @@
 # Reconhecimento e Reconstrução Facial com SVD 👤
 
-Este projeto apresenta um notebook que explora, de forma prática, como a ***Decomposição em Valores Singulares (SVD)*** pode ser aplicada no âmbito de reconhecimento facial, destacando suas vantagens e enviesamento, especialmente no contexto da utilização em conjuntos de dados.
+Este é um projeto realizado por 4 alunos da Ilum - Escola de Ciência (CNPEM) e foi produzido para a disciplina de Álgebra Linear Computacional, ministrada pelo Prof. Dr. Vinicius Francisco Wasques. O projeto desenvolvido apresenta um notebook que explora, de forma prática, como a ***Decomposição em Valores Singulares (SVD)*** pode ser aplicada no âmbito de reconhecimento facial, destacando suas vantagens e enviesamento, especialmente no contexto da utilização em conjuntos de dados.
+
+# !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge Status"](https://img.shields.io/badge/Status-Em_constru%C3%A7%C3%A3o-yellow) 
 
 ## 📋 Conteúdo do Repositório
-*Reconhecimento e Reconstrução Facial.ipynb*: Um notebook interativo que demonstra o uso do SVD no reconhecimento facial, incluindo:
+*[Reconhecimento e Reconstrução Facial.ipynb](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/A%20Batalha%20Contra%20Dragao/introducao.ipynb)*: Um notebook interativo que demonstra o uso do SVD no reconhecimento facial, incluindo:
 
 - Galeria de imagens do dataset utilizado
 - Aplicação do SVD para reduzir dimensionalidade em imagens faciais.
